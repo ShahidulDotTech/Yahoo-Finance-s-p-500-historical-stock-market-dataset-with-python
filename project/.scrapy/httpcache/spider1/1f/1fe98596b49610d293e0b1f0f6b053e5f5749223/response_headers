@@ -1,0 +1,14 @@
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000
+Content-Security-Policy: sandbox allow-downloads allow-forms allow-modals allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation;
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Fri, 05 Aug 2022 09:35:36 GMT
+X-Envoy-Upstream-Service-Time: 385
+Server: ATS
+X-Envoy-Decorator-Operation: finance-nodejs--mtls-production-sg3.finance-k8s.svc.yahoo.local:4080/*
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
