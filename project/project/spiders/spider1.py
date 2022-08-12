@@ -35,7 +35,6 @@ class Spider1Spider(scrapy.Spider):
             accept-language: en-US,en;q=0.9
             content-length: 2253
             content-type: application/x-www-form-urlencoded; charset=UTF-8
-            cookie: A1=d=AQABBGza7GICEBDrpZRBLhvOntc1Lh6Lc10FEgEBAQEr7mL2YgAAAAAA_eMAAA&S=AQAAAqjtvKrC9fBux4SE_SQURQQ; A3=d=AQABBGza7GICEBDrpZRBLhvOntc1Lh6Lc10FEgEBAQEr7mL2YgAAAAAA_eMAAA&S=AQAAAqjtvKrC9fBux4SE_SQURQQ; A1S=d=AQABBGza7GICEBDrpZRBLhvOntc1Lh6Lc10FEgEBAQEr7mL2YgAAAAAA_eMAAA&S=AQAAAqjtvKrC9fBux4SE_SQURQQ&j=WORLD
             origin: https://finance.yahoo.com
             referer: https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC
             sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
